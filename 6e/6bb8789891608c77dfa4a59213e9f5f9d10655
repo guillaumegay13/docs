@@ -1,0 +1,41 @@
+deploy/koyeb.mdx
+  s_d4dd3ac37be356::t_4c862f0e6161c3 1-85
+deploy.mdx
+  s_d4dd3ac37be356::t_50f508c3de3fa3 1-68
+deploy/aws.mdx
+  s_d4dd3ac37be356::t_7c50624eadcc5b 1-90
+deploy/coolify.mdx
+  s_d4dd3ac37be356::t_2d31d7b454b21f 1-79
+deploy/digitalocean.mdx
+  s_d4dd3ac37be356::t_488a2f8258b885 1-72
+deploy/easypanel.mdx
+  s_d4dd3ac37be356::t_c7a5a3a09f7986 1-106
+deploy/fly.mdx
+  s_d4dd3ac37be356::t_df44c390bfeeb9 1-82
+deploy/gcp.mdx
+  s_d4dd3ac37be356::t_f4cf64bf2742b7 1-88
+deploy/heroku.mdx
+  s_d4dd3ac37be356::t_d5ea9f2db9b818 1-86
+deploy/railway.mdx
+  s_d4dd3ac37be356::t_3b4c49774113ed 1-63
+deploy/render.mdx
+  s_d4dd3ac37be356::t_3ef5f7647bad83 1-70
+docs.json
+  s_d4dd3ac37be356::t_b68b3f62c3e32c 94-110
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6e6bb8789891608c77dfa4a59213e9f5f9d10655",
+  "prompts": {},
+  "sessions": {
+    "s_d4dd3ac37be356": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3bb6-aeb4-70e1-bc09-0180cc699731",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
