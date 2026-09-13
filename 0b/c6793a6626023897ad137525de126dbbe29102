@@ -1,0 +1,20 @@
+docs.json
+  s_c03dc0ae96aac3::t_a213633cdbf4ea 161-167
+  s_c03dc0ae96aac3::t_cf54387a731e9a 160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0bc6793a6626023897ad137525de126dbbe29102",
+  "prompts": {},
+  "sessions": {
+    "s_c03dc0ae96aac3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f68d31b96ffeZq8O7BCNwR3dk1",
+        "model": "auto"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
