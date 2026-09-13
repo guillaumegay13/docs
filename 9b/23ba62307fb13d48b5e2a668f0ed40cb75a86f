@@ -1,0 +1,28 @@
+llm-gateway.mdx
+  s_c03dc0ae96aac3::t_88c8c391e8c485 162
+docs.json
+  s_c03dc0ae96aac3::t_d522d2dc970924 112-118
+  s_c03dc0ae96aac3::t_388d3fd3679c64 111
+cli.mdx
+  s_c03dc0ae96aac3::t_8987e13a866bd3 1-135
+introduction.mdx
+  s_c03dc0ae96aac3::t_7d91ed74e88aa5 37-39
+self-hosted.mdx
+  s_c03dc0ae96aac3::t_86d42404468eec 159-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9b23ba62307fb13d48b5e2a668f0ed40cb75a86f",
+  "prompts": {},
+  "sessions": {
+    "s_c03dc0ae96aac3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f68d31b96ffeZq8O7BCNwR3dk1",
+        "model": "auto"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
