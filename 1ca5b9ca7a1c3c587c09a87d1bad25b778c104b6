@@ -1,0 +1,59 @@
+deploy/easypanel.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/koyeb.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/coolify.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/heroku.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/railway.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+docs.json
+  s_c893be96529863::t_6ebbeee7a9d03e 99-123
+deploy/render.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/digitalocean.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/aws.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/gcp.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+deploy/fly.mdx
+  s_c893be96529863::t_a5895e93835646 3,5
+icons/deploy/aws.svg
+  s_c893be96529863::t_24a9c9b3f846ba 1
+icons/deploy/coolify.svg
+  s_c893be96529863::t_641329510e3a15 1
+icons/deploy/digitalocean.svg
+  s_c893be96529863::t_969f9fbdfc28f5 1
+icons/deploy/easypanel.svg
+  s_c893be96529863::t_359e0958992ebf 1
+icons/deploy/fly.svg
+  s_c893be96529863::t_d0065b71678109 1
+icons/deploy/gcp.svg
+  s_c893be96529863::t_815bf79c509af8 1
+icons/deploy/heroku.svg
+  s_c893be96529863::t_56ac22c019adc4 1
+icons/deploy/koyeb.svg
+  s_c893be96529863::t_4d97a42f494154 1
+icons/deploy/railway.svg
+  s_c893be96529863::t_b8938d00e5cf88 1
+icons/deploy/render.svg
+  s_c893be96529863::t_0f511e6429b407 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1ca5b9ca7a1c3c587c09a87d1bad25b778c104b6",
+  "prompts": {},
+  "sessions": {
+    "s_c893be96529863": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f45c4-9e27-7202-9ffd-6e87015d8bab",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
